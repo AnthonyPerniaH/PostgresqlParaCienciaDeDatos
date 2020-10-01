@@ -32,3 +32,4 @@ CREATE TRIGGER aaa_changes
 --probando
 INSERt INTO aaa(bbb,ccc)
 VALUES ('abc','def');
+
